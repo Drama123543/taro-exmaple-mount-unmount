@@ -1,4 +1,5 @@
-有个需求要多次 mount,unmouted
+有个微前端需求要多次 mount(Taro.render),unmouted(Taro.unmountComponentAtNode)
+[代码仓库](https://github.com/ishanyang/taro-exmaple-mount-unmount)
 
 1. npm install
 2. npm run dev:h5
